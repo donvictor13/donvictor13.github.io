@@ -1,2 +1,14 @@
-theme: "PaperMod"
+baseURL: "http://donvictor13.github.io/"
+title: donvictor.dev
+paginate: 5
+theme: PaperMod
+languageCode: 'en-us'
+
+params:
+    profileMode:
+        enabled: true
+        title: "Don Victor" # optional default will be site title
+        subtitle: "Hi, I am an Devops engineer and technology enthusiast."
+        
+
 
