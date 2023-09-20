@@ -9,7 +9,8 @@ params:
         enabled: true
         title: "Don Victor" # optional default will be site title
         subtitle: "Hi, I am an Devops engineer and technology enthusiast."
-        buttons:
+        imageUrl: https://avatars.githubusercontent.com/u/33443934?v=4
+  	buttons:
          - name: Email
            url: "mailto:contact@donvictor.dev"  
 
