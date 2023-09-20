@@ -9,6 +9,12 @@ params:
         enabled: true
         title: "Don Victor" # optional default will be site title
         subtitle: "Hi, I am an Devops engineer and technology enthusiast."
-        
+        buttons:
+         - name: Email
+           url: "mailto:contact@donvictor.dev"  
 
+    socialIcons:
+      - name: github
+        url: "https://github.com/donvictor13"
+      
 
